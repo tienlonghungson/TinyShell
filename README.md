@@ -1,4 +1,4 @@
-# TinyShell
+# TinyShell For MacOS
 This is my TinyShell project for MACOS, written in Objective C
 
 To run this project, compile it to executable file first : 

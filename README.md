@@ -1,3 +1,4 @@
+# TinyShell
 This is my TinyShell project for MACOS
 
 To run this project, compile it to executable file first : clang -fobjc-arc main.m BuiltInCommand.m ProcessCommand.m -o TinyShell, or just import it to Xcode Project and run.
